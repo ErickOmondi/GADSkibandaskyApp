@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+     <item
+         android:id="@+id/all"
+         android:title="All"
+         android:icon="@drawable/all"
+         app:showAsAction="always"/>
+
+     <item
+         android:id="@+id/vegone"
+         android:title=" Vegetables"
+         android:icon="@drawable/vegone"
+         app:showAsAction="always"
+         />
+     <item
+         android:id="@+id/fruitone"
+         android:title="Fruits"
+         android:icon="@drawable/fruitone"
+         app:showAsAction="always" />
+</menu>

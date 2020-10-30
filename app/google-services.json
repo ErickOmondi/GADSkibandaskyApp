@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442394810056",
+    "firebase_url": "https://kibandasky-e9001.firebaseio.com",
+    "project_id": "kibandasky-e9001",
+    "storage_bucket": "kibandasky-e9001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442394810056:android:fdca700522b5138b1537fd",
+        "android_client_info": {
+          "package_name": "com.kibandasky.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442394810056-corcp9doua8lu5dv21cmo41ipuefuknv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx1IPScL_UQPe_x17K4V5yaGyME6exD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442394810056-corcp9doua8lu5dv21cmo41ipuefuknv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
